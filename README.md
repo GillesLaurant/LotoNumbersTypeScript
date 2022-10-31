@@ -1,2 +1,3 @@
-# LotoNumbersTypeScript
-Find random's numbers for LOTO
+# CombiNumbers
+
+Find random numbers for Loto
